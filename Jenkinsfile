@@ -5,4 +5,4 @@ node {
    echo 'test'
    stage 'deploy'
    echo 'deploy now 2'
- 
+}

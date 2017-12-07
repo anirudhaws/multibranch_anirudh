@@ -6,3 +6,4 @@ node {
    stage 'deploy'
    echo 'deploy now 2'
  
+}

@@ -4,6 +4,6 @@ node {
    stage 'test'
    echo 'test'
    stage 'deploy'
-   echo 'deploy 1'
+   echo 'deploy '
  
 }
